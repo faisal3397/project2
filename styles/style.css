@@ -4,6 +4,11 @@
     margin: 0 auto;
   }
   
+#loading{
+  position: absolute;
+  left: 50%;
+  margin-left: 25px;
+}
   #popUp {
     opacity: 0.95;
     position: absolute;
@@ -235,3 +240,7 @@
     text-align: right;
     color: #097FB2;
   }
+
+  /* .hidden{
+    display: none;
+  } */
